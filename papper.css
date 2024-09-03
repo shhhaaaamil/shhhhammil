@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+   
+}
+.free{
+    text-align: center;
+    padding-top: 20px;
+}
+.div-first{
+    background-color:black;
+    margin-top:0;
+    width: 100vw;
+    height: 50px;
+    color: white;
+    border:5px;
+    border-color: aliceblue;
+     text-align: center;
+}
+.div-sec{
+    background-color: black;
+    height: 100px;
+    width: 1234px;
+    color: white;
+    padding-left: 46px;
+    padding-top: 8px;
+    display: inline-flex;
+    
+}
+.logo{
+    margin: 30px;
+}
+.home{
+    margin:30px;
+  
+}
+.us{
+ margin:30px;
+}
+.cata{
+    margin:30px;
+}
+.tra{
+    margin: 30px;
+    width: 50px;
+}
+.big-div{
+    margin-left: 60px;
+    margin-top: 30px;
+    display:inline-flex;
+    padding: 30px;
+    
+     
+}
+.big-div1{
+    margin-left: 60px;
+    margin-top: 30px;
+    display:inline-flex;
+    padding: 30px;
+     
+}
+.big-div2{
+    margin-left: 60px;
+    margin-top: 30px;
+    display:inline-flex;
+    padding: 30px;
+    
+    
+    
+     
+}
+.big-div3{
+    margin-left: 60px;
+    margin-top: 30px;
+    display:inline-flex;
+    padding: 30px;
+     
+}
+.big-div4{
+    margin-left: 60px;
+    margin-top: 30px;
+    display:inline-flex;
+     
+     
+}
+.div-second{
+    margin:20px ;
+}
+.leven{
+    padding-left: 50px;
+    padding-bottom: 60px;
+    font-weight:100px;
+    margin-left: 40px;
+}
+.button{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: white;
+     margin-top: 30px;
+     margin-left: 60px;
+}
+.black-1{
+    background:black ;
+    color: white;
+    width: 100%;
+    height: 250px;
+   /* padding-left: 40%; */
+   border: 2px;
+   border-color: azure;
+   margin-top: 40px;
+   text-align: center;
+
+}
+.black-2{
+     
+    width:100%;
+    height:100px;
+}
+.second{
+    margin-left: 40px;
+}
+.third{
+    margin-left: 40px;
+}
+.fifth{
+    margin-left: 40px;
+}
+.six{
+    margin-left: 40px;
+}
+.eight{
+    margin-left: 40px;
+}
+.nine{
+    margin-left: 40px;
+}
+.last-div{
+     width: 100vw;
+  height: 200px;
+}
+.hr{
+    height: .4px;
+width: 100%;
+border: 0;
+background-color: gray;
+ 
+}
+.last{
+    background-color:black;
+    color: gray;
+    height: 100px;
+    text-align: center;
+}
+.gray{
+    color: gray;
+}
+.side-img{
+    margin-left: 350px;
+    width: 100px;
+    height: 60px;
+    
+}
+ 
+ 
